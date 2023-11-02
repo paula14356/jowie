@@ -1,0 +1,75 @@
+*{
+    background-color: aqua;
+    font-size:medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100%;
+    padding:8px;
+}
+.container{
+ width:20%;
+ height:15%;
+}
+a{
+    font-weight:200%;
+    text-decoration:none;
+    text-decoration-style:italic;
+    color:blueviolet;
+    text-align:center;
+    font-size:100%;
+}
+.links{
+    text-align:center;
+    color:blueviolet;
+    font-weight: 150%;
+}
+footer{
+    text-align:center;
+    color:brown;
+    font-weight:150%;
+    font-size:150%;
+    background: yellow;
+}
+form{
+    border:none;
+    padding:12px 20px;
+    border:none;
+    border-radius:4px;
+    box-sizing:border-box;
+    margin: 0 auto;
+}
+nav{
+    text-align: center;
+    background:yellow; 
+    padding: 20px;
+    padding:20px;
+
+}
+.logo{
+    text-align: center;
+    
+}
+.logo img{
+    width: 290px;
+    height: 150px;
+}
+table{
+    tab-size:20%;
+    margin:bold;
+    table-layout: fixed;
+    border-color:violet;
+}
+.isma{
+    background: yellow;
+}
+.container img{
+    width: 200%;
+    height: 40%;
+}
+.hus img{
+    width: 50%;
+    height: 40%;
+}
+.kis img{
+    width: 50%;
+    height: 40%;
+}
